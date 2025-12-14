@@ -1,0 +1,41 @@
+.outfit-medium {
+font-family: "Outfit", sans-serif;
+font-optical-sizing: auto;
+font-weight: 500;
+font-style: normal;
+}
+
+.outfit-light {
+font-family: "Outfit", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+}
+
+.main {
+    height: 90vh;
+}
+
+.height-full {
+    height: 100%;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.flex-align-center {
+    align-items: center;
+}
+
+.flex-justify-center {
+    justify-content: center;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.mb-0 {
+    margin-bottom: 0;
+}
